@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+Disallow: /api/*
+Sitemap: https://aicourseport-iq5gafpb.manus.space/sitemap.xml
